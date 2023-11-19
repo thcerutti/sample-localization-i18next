@@ -7,6 +7,22 @@
   pointer-events: none;
 }
 
+.translation-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  margin-bottom: 20px;
+
+}
+.translation-buttons button {
+  width: 120px;
+  height: 40px;
+  background-color: #fff;
+  color: #000;
+  border: none;
+  border-radius: 10%;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

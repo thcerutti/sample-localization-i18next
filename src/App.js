@@ -16,7 +16,7 @@ function App() {
 
         <p>{t("title")}</p>
         <p>{t("description.part1")}</p>
-        <div>
+        <div className="translation-buttons">
           <button type="button" onClick={() => changeLanguage("en")}>
             {t("buttons.english")}
           </button>
@@ -34,7 +34,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          {t('links.learn_react')}
         </a>
       </header>
     </div>
