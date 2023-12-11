@@ -1,15 +1,15 @@
 {
-  "title": "Welcome to react using react-i18next",
+  "title": "Bienvenido a reaccionar usando react-i18next",
   "description": {
-    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
-    "part2": "Switch language between English, Portuguese and Spanish using buttons above."
+    "part1": "Para empezar, edita <1>src/App.js</1> y guarda para recargar.",
+    "part2": "Cambiar de idioma entre inglés, portugués y español usando los botones de arriba."
   },
   "buttons": {
-    "english": "English",
-    "portuguese": "Portuguese",
-    "spanish": "Spanish"
+    "english": "Inglés",
+    "portuguese": "Portugués",
+    "spanish": "Español"
   },
   "links": {
-    "learn_react": "Learn React"
+    "learn_react": "Aprende React"
   }
 }
