@@ -2,7 +2,8 @@
   "title": "Bem vindo ao React usando react-i18next",
   "description": {
     "part1": "Para iniciar, edite <1>src/App.js</1> e salve para recarregar.",
-    "part2": "Alterne entre os idiomas Inglês, Português e Espanhol usando os botões acima."
+    "part2": "Alterne entre os idiomas Inglês, Português e Espanhol usando os botões acima.",
+    "part3": "O texto traduzido deve aparecer abaixo."
   },
   "buttons": {
     "english": "Inglês",
